@@ -1,1 +1,0 @@
-# Vehicle-Detection-and-Counting-using-OpenCV
